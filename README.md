@@ -1,5 +1,5 @@
 # ngc-bug-demo
-~~This is a repo to reproduce bug in ngc~~
+~~This is a repo to reproduce bug in ngc~~  
 Problem was in TS version >2.1.x  
 Works fine with TS v2.0.10
 
